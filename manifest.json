@@ -10,7 +10,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://api.codetabs.com/v1/proxy?quest=https://gomuraw.com/images/android-chrome-512x512.png",
+      "src": "/images/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -18,7 +18,7 @@
   "related_applications": [
     {
       "platform": "webapp",
-      "url": "https://api.codetabs.com/v1/proxy?quest=https://gomuraw.com/manifest.json"
+      "url": "https://gomuraw.com/manifest.json"
     }
   ]
 }
